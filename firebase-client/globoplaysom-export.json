@@ -1,0 +1,17 @@
+{
+  "videos" : {
+    "produtos" : {
+      "musica-1" : {
+        "nome" : "by-the-way",
+        "tempo" : 60,
+        "valor" : 10
+      },
+      "musica-2" : {
+        "nome" : "californication",
+        "tempo" : 120,
+        "valor" : 20
+      }
+    },
+    "video" : "https://www.youtube.com/embed/q8fW7rX9Tco?ecver=2"
+  }
+}
