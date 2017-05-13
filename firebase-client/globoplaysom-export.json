@@ -1,17 +1,49 @@
-{
-  "videos" : {
-    "produtos" : {
-      "musica-1" : {
-        "nome" : "by-the-way",
-        "tempo" : 60,
-        "valor" : 10
-      },
-      "musica-2" : {
-        "nome" : "californication",
-        "tempo" : 120,
-        "valor" : 20
-      }
-    },
-    "video" : "https://www.youtube.com/embed/q8fW7rX9Tco?ecver=2"
-  }
-}
+[ {
+  "produtos" : [ {
+    "musica" : {
+      "nome" : "by-the-way",
+      "tempo" : 60,
+      "url" : "http://www.url-da-musica.com",
+      "valor" : 10
+    }
+  }, {
+    "musica" : {
+      "nome" : "californication",
+      "tempo" : 120,
+      "url" : "http://www.url-da-musica.com",
+      "valor" : 20
+    }
+  }, {
+    "musica" : {
+      "nome" : "dani",
+      "tempo" : 180,
+      "url" : "http://www.url-da-musica.com",
+      "valor" : 30
+    }
+  } ],
+  "video" : "https://www.youtube.com/embed/q8fW7rX9Tco?ecver=2"
+}, {
+  "produtos" : [ {
+    "musica" : {
+      "nome" : "by-the-way",
+      "tempo" : 60,
+      "url" : "http://www.url-da-musica.com",
+      "valor" : 10
+    }
+  }, {
+    "musica" : {
+      "nome" : "californication",
+      "tempo" : 120,
+      "url" : "http://www.url-da-musica.com",
+      "valor" : 20
+    }
+  }, {
+    "musica" : {
+      "nome" : "dani",
+      "tempo" : 180,
+      "url" : "http://www.url-da-musica.com",
+      "valor" : 30
+    }
+  } ],
+  "video" : "https://www.youtube.com/embed/q8fW7rX9Tco?ecver=2"
+} ]
