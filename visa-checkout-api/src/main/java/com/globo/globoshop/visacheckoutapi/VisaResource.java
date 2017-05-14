@@ -26,7 +26,7 @@ public class VisaResource {
 
 		Pagamento resposta = new Pagamento().setStatus("Aprovado");
 
-		return Response.ok(resposta).build();
+		return Response.ok(resposta).header("Access-Control-Allow-Origin", "*").build();
 	}
 
 }
